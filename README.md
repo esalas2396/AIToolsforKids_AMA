@@ -6,7 +6,8 @@ Ask Me Anything (AMA) is an open-source self-study project created for the purpo
 
 The front-end of the project was created using "CustomTkinter" which is a python UI-library based on Tkinter created by Tom Schmiansky (https://github.com/TomSchimansky/CustomTkinter) and the back-end utilizes OpenAI ChatGPT-3 via prompt engineering.
 
-Screenshot 2023-04-06 at 8 37 38 PM
+
+<img width="1090" alt="Screenshot 2023-04-06 at 8 37 38 PM" src="https://user-images.githubusercontent.com/72895282/233726323-81ba9ef8-7bca-414f-94be-23c36a7f0cc5.png">
 
 To track the development process of the study project refer to these links :
 
