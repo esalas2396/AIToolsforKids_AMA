@@ -15,14 +15,18 @@ https://sites.google.com/view/saniavn/home/project?authuser=1
 
 https://sites.google.com/view/esalas-aitools/home?authuser=1
 
+
+
 Follow these steps to download and play with this project :
 
-Download files on to desktop in folder called "AMA_UI"
+1. Download files on to desktop in folder called "AMA_UI"
 
-Install customtkinter module (make sure to verify your current python version)
+2. Install customtkinter module (make sure to verify your current python version)
 
- pip3 install customtkinter 
-Register for OpenAI playground account and obtain 'key' ; plug in key into line 70 of .py file
+     pip3 install customtkinter 
 
- openai.api_key = " insert key here "
-Run !
+3. Register for OpenAI playground account and obtain 'key' ; plug in key into line 70 of .py file
+
+     openai.api_key = " insert key here "
+ 
+ 4. Run !
