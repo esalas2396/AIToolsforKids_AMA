@@ -23,10 +23,10 @@ Follow these steps to download and play with this project :
 
 2. Install customtkinter module (make sure to verify your current python version)
 
-     pip3 install customtkinter 
+          pip3 install customtkinter 
 
 3. Register for OpenAI playground account and obtain 'key' ; plug in key into line 70 of .py file
 
-     openai.api_key = " insert key here "
+          openai.api_key = " insert key here "
  
  4. Run !
